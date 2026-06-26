@@ -85,7 +85,7 @@ Modular Swift architectures (SPM, Clean Architecture, MVVM, Coordinator) · Swif
 - 🌀 [Shikki](https://shikki.io) — AI code production engine
 - 🏃 [Maya.fit](https://maya.fit) — sport & fitness
 - 💼 [LinkedIn](https://www.linkedin.com/in/jeoffreythirot/)
-- 🌍 [jeoffrey.me](https://jeoffrey.me) — personal
+- 📝 [Flsh](https://flsh.sh) — privacy-first CLI note-taking
 - ☕ [Ko-fi](https://ko-fi.com/Fr0zenSide) — support indie work
 
 ---
