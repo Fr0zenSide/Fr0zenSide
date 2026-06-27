@@ -8,7 +8,7 @@ Paris · 17 years building digital products · Independent since 2009
 <p align="center">
 <a href="https://www.linkedin.com/in/jeoffreythirot/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://obyw.one"><img src="https://img.shields.io/badge/OBYW.one-111?style=flat-square" alt="OBYW.one"></a>
-<a href="https://maya.fit"><img src="https://img.shields.io/badge/Maya.fit-FF6A3D?style=flat-square" alt="Maya.fit"></a>
+<a href="https://maya.fit"><img src="https://img.shields.io/badge/Maya.fit-5888F6?style=flat-square" alt="Maya.fit"></a>
 <a href="https://x.com/Fr0zenSide"><img src="https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 </p>
 
